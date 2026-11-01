@@ -1,14 +1,17 @@
-### Hi, I'm Wahyu 👋
+## Wahyu
 
-Software engineer at **Jepreto**, Jakarta. I build web products end to end — mostly Next.js, TypeScript and Prisma, deployed on k3s.
+I write software at [Jepreto](https://jepreto.com), a photobooth platform. If you've printed a photo strip at a booth running Jepreto, paid for it with QRIS, or booked it online, that went through code my team ships. Most of it is Next.js, TypeScript and Prisma on a k3s cluster.
 
-**Currently building**
-- **Jepreto** — photobooth platform: booth app, POS, booking, QRIS payments
-- **Tempel** — check and top up e-money cards over NFC
-- **Tameng** — message checking service for the public and TNI AD
+After hours I build things for problems I keep running into:
 
-**Stack**
-TypeScript · Next.js · React · Node.js · Prisma · MySQL · Redis · Laravel · Kubernetes (k3s)
+- **Tameng** checks whether a message is a scam. One person's report becomes a warning for the whole unit. Built for the Kartika Cyber Hackathon 2026, still a prototype.
+- **Tempel** checks and tops up an e-money card when you tap it on your phone.
+- **Syahdu** makes custom wedding invitations.
+- [**ai-cost-tracker**](https://github.com/kgswhy/ai-cost-tracker) pulls AI spend from several vendors into one database, with a dashboard and budget alerts.
+- [**website_atk**](https://github.com/kgswhy/website_atk) keeps office supply records for the Dinas Ketahanan Pangan dan Pertanian, Kota Dumai.
 
-**Elsewhere**
-[X / Twitter](https://x.com/KgsWahyu1) · kgswahyu80@gmail.com
+Tameng, Tempel and Syahdu are private for now.
+
+Day to day I work in TypeScript, Next.js, React, Prisma, MySQL and Redis. The older repos here are Laravel and PHP.
+
+Jakarta. Find me on [X](https://x.com/KgsWahyu1) or email kgswahyu80@gmail.com.
